@@ -4,9 +4,6 @@
  ## Repo setup
 
 ```bash
-# Clone the repo
-git clone git@github.com:lowbyteproductions/bare-metal-series.git
-cd bare-metal-series
 
 # Initialise the submodules (libopencm3)
 git submodule init
